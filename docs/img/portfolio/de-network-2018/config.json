@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "../music-logo.svg",
+    "link": "",
+    "text": "Mariana O. S. Silva"
+  },
+  "text": {
+    "more": "",
+    "intro":  "A music genre collaboration network. <br><br> Code adapted from work by <a href=\"http://www.oii.ox.ac.uk\" title=\"Oxford Internet Institute\"><span>OII</span></a> and <a href=\"http://jisc.ac.uk\" title=\"JISC\"><span>JISC</span></a>.",
+    "title": "Genre Collaboration Network"
+  },
+  "legend": {
+    "edgeLabel": "Collaboration",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Genre"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "rgba(221, 221, 221, 0.5)",
+      "defaultLabelBGColor": "rgba(221, 221, 221, 0.1)",
+      
+      "defaultLabelColor": "#a3a3a3",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "normal",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
