@@ -1,4 +1,4 @@
-# ISMIR 2020 - International Society for Music Information Retrieval
+# ISMIR 2020 - International Society for Music Information Retrieval ![GitHub repo size](https://img.shields.io/github/repo-size/opgabriel/ISMIR2020)
 
 > Detecting Collaboration Profiles in Success-based Music Genre Networks
 
@@ -24,6 +24,20 @@ In order to answer such questions, we first model genre collaboration in the mus
 
 ## Dataset
 
+1. **[Genre Networks]**: Success-based genre collaboration networks. (612 KB) 
+2. **[Genre Mapping]**: Genre mapping from Spotify genres to super-genres. (6 KB) 
+3. **[Artist Networks]**: Success-based artist collaboration networks. (423 KB)
+4. **[Artists]**: Some artist data. (473 KB)
+5. **[Hit Songs]**: Hit Song data and features. (1.4 MB)
+6. **[Charts]**: Enhanced data from Spotify Weekly Top 200 Charts. (13.6 MB) 
+
+[Genre Networks]: https://github.com/opgabriel/ISMIR2020/raw/master/docs/download/genre_networks.zip
+[Genre Mapping]: https://github.com/opgabriel/ISMIR2020/raw/master/docs/download/genre_mapping.zip
+[Artist Networks]: https://github.com/opgabriel/ISMIR2020/raw/master/docs/download/artist_networks.zip
+[Artists]: https://github.com/opgabriel/ISMIR2020/raw/master/docs/download/artist_data.zip
+[Hit Songs]: https://github.com/opgabriel/ISMIR2020/raw/master/docs/download/hit_songs.zip
+[Charts]: https://github.com/opgabriel/ISMIR2020/raw/master/docs/download/charts.zip
+
 ### Statistics
 
 ---
@@ -32,7 +46,7 @@ In order to answer such questions, we first model genre collaboration in the mus
 Songs | 13,880
 Artists | 3,612
 Genres | 896
-Size | Mb
+Size | 12.6 MB
 ---
 
 ## The Team
@@ -52,18 +66,22 @@ Size | Mb
 <!-- ## Source (citation)
 
   ```
-  @inproceedings{fma_dataset,
-    title = {FMA: A Dataset for Music Analysis},
-    author = {Defferrard, Micha\"el and Benzi, Kirell and Vandergheynst, Pierre and Bresson, Xavier},
-    booktitle = {18th International Society for Music Information Retrieval Conference},
-    year = {2017},
-    url = {https://arxiv.org/abs/1612.01840},
+  @inproceedings{ismir/OliveiraSSLM20,
+    title = {Detecting Collaboration Profiles in Success-based Music Genre Networks},
+    author = {Gabriel P. Oliveira and 
+              Mariana O. Silva and 
+              Danilo B. Seufitelli and 
+              Anisio Lacerda and
+              Mirella M. Moro},
+    booktitle = {20th International Society for Music Information Retrieval Conference},
+    year = {2020},
+    url = {},
   }
   ``` -->
 
-<!-- ## License
+## License
 
-* The dataset is meant for research purposes. -->
+* The dataset is meant for research purposes.
 
 ## Acknowledgments
 
