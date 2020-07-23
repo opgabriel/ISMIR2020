@@ -1,4 +1,4 @@
-# ISMIR 2020 - International Society for Music Information Retrieval ![GitHub repo size](https://img.shields.io/github/repo-size/opgabriel/ISMIR2020)
+# [ISMIR 2020 - International Society for Music Information Retrieval](https://opgabriel.github.io/ISMIR2020) ![GitHub repo size](https://img.shields.io/github/repo-size/opgabriel/ISMIR2020)
 
 > Detecting Collaboration Profiles in Success-based Music Genre Networks
 
@@ -46,7 +46,6 @@ In order to answer such questions, we first model genre collaboration in the mus
 Songs | 13,880
 Artists | 3,612
 Genres | 896
-Size | 12.6 MB
 ---
 
 ## The Team
