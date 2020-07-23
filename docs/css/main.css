@@ -1136,11 +1136,12 @@ button:focus {
 }
 
 .shot-item .single-content {
-  background-color: rgba(22, 26, 39, 0.7);
+  background-color: rgba(61, 39, 5, 0.6);
   opacity: 0.90;
   height: 100%;
   left: 0;
-  opacity: 0;
+  opacity: 0;  
+  border-radius: 500px;
   position: absolute;
   top: 0;
   -webkit-transition-duration: 500ms;
@@ -1166,14 +1167,14 @@ button:focus {
 }
 
 .shot-item .single-content .zoom-icon a {
-  color: #fff;
-  font-size: 30px;
+  color: #f9f9f9;
+  font-size: 40px;
   margin-bottom: 15px;
 }
 
 .shot-item .single-content a {
-  color: #fff;
-  font-size: 16px;
+  color: #f9f9f9;
+  font-size: 26px;
 }
 
 .shot-item:hover img {
