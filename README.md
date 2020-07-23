@@ -22,7 +22,7 @@ In order to answer such questions, we first model genre collaboration in the mus
 2. In general, genre collaborations are increasing, with emerging local genres hitting global success -- despite the differences in the evolution of regional markets.
 3. Genre collaborations analyses describe three significant factors (_Attractiveness_, _Affinity_ and _Influence_), to uncover four profiles (_Solid_, _Regular_, _Bridge_ and _Emerging_).
 
-## Dataset
+## MGD - Music Genre Dataset
 
 1. **[Genre Networks]**: Success-based genre collaboration networks. (612 KB) 
 2. **[Genre Mapping]**: Genre mapping from Spotify genres to super-genres. (6 KB) 
