@@ -1,6 +1,12 @@
-# [ISMIR 2020 - International Society for Music Information Retrieval](https://opgabriel.github.io/ISMIR2020) ![GitHub repo size](https://img.shields.io/github/repo-size/opgabriel/ISMIR2020)
+<img src="icon.png" align="right" />
 
-> Detecting Collaboration Profiles in Success-based Music Genre Networks
+[ISMIR2020]: https://ismir.github.io/ISMIR2020/
+[MGD]: https://opgabriel.github.io/ISMIR2020/
+
+# [ISMIR 2020][ISMIR2020] - International Society for Music Information Retrieval ![GitHub repo size](https://img.shields.io/github/repo-size/opgabriel/ISMIR2020)
+
+
+> [Detecting Collaboration Profiles in Success-based Music Genre Networks][MGD]
 
 ## Abstract
 
