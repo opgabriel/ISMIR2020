@@ -203,7 +203,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   position: relative;
   z-index: 1;
   padding: 12px 32px;
-  /* border-radius: 30px; */
+  border-radius: 30px;
 }
 
 .btn-common:hover {
@@ -256,6 +256,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .btn-rm {
   padding: 7px 10px;
   text-transform: capitalize;
+  border-radius: 0px;
 }
 
 button:focus {
