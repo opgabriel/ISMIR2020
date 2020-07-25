@@ -302,6 +302,22 @@ button:focus {
   color: #fff;
 }
 
+.github a {
+  color: #24292e;
+}
+
+.github a:hover {
+  background: #24292e;
+}
+
+.website a {
+  color: #f39c12;
+}
+
+.website a:hover {
+  background: #f39c12;
+}
+
 .facebook a {
   color: #4867AA;
 }
@@ -318,52 +334,12 @@ button:focus {
   background: #1DA1F2;
 }
 
-.google-plus a {
-  color: #DD4D42;
-}
-
-.google-plus a:hover {
-  background: #DD4D42;
-}
-
-.youtube a {
-  color: #DF2926;
-}
-
-.youtube a:hover {
-  background: #DF2926;
-}
-
 .linkedin a {
   color: #007BB6;
 }
 
 .linkedin a:hover {
   background: #007BB6;
-}
-
-.pinterest a {
-  color: #BD081C;
-}
-
-.pinterest a:hover {
-  background: #BD081C;
-}
-
-.dribbble a {
-  color: #EA4C89;
-}
-
-.dribbble a:hover {
-  background: #EA4C89;
-}
-
-.behance a {
-  color: #0B7CFF;
-}
-
-.behance a:hover {
-  background: #0B7CFF;
 }
 
 /* ==========================================================================
@@ -1517,6 +1493,16 @@ button:focus {
   transition: 0.5s;
 }
 
+.single-team .social-list .github a:hover {
+  background: #24292e;
+  color: #fff;
+}
+
+.single-team .social-list .website a:hover {
+  background: #f39c12;
+  color: #fff;
+}
+
 .single-team .social-list .facebook a:hover {
   background: #4867aa;
   color: #fff;
@@ -1524,11 +1510,6 @@ button:focus {
 
 .single-team .social-list .twitter a:hover {
   background: #1da1f2;
-  color: #fff;
-}
-
-.single-team .social-list .google-plus a:hover {
-  background: #dd4d42;
   color: #fff;
 }
 
