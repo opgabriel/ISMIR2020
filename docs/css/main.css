@@ -1026,7 +1026,7 @@ button:focus {
  Video promo Style
  ========================================================================== */
 .video-promo {
-  background: url(../img/bg/video.jpg);
+  background: url(../img/bg/bg-video.jpg);
   position: relative;
 }
 
