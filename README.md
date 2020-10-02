@@ -90,7 +90,8 @@ Genres | 896
 
 ## Acknowledgments
 
-> The work is supported by [CNPq] and [CAPES], Brazil.
+> This work is supported by [CAPES], [CNPq] and [FAPEMIG], Brazil.
 
 [CNPq]: http://www.cnpq.br/
 [CAPES]: https://www.capes.gov.br/
+[FAPEMIG]: https://fapemig.br/
