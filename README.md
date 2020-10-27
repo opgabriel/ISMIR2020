@@ -78,7 +78,7 @@ Genres | 896
               Danilo B. Seufitelli and 
               Anisio Lacerda and
               Mirella M. Moro},
-    booktitle = {21th International Society for Music Information Retrieval Conference}
+    booktitle = {21st International Society for Music Information Retrieval Conference}
     pages = {726--732},
     year = {2020}
   }
