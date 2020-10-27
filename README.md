@@ -68,7 +68,7 @@ Genres | 896
 [page4]: http://homepages.dcc.ufmg.br/~anisio/
 [page5]: http://homepages.dcc.ufmg.br/~mirella/
 
-<!-- ## Source (citation)
+## Source (citation)
 
   ```
   @inproceedings{ismir/OliveiraSSLM20,
@@ -82,7 +82,7 @@ Genres | 896
     pages = {726--732},
     year = {2020}
   }
-  ``` -->
+  ``` 
 
 ## License
 
